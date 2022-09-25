@@ -1,0 +1,13 @@
+[project]
+name = "paraphrasing-engine"
+version = "0.0.1"
+dependencies = [
+    "flask",
+    "halo",
+		"transformers",
+		"torch",
+		"sentence_splitter",
+		"yake",
+		"waitress"
+
+]
